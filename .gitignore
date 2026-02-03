@@ -1,0 +1,3 @@
+*.pb
+*.avi
+__pycache__/
